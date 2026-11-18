@@ -1,0 +1,6 @@
+CHORBAKOR ARENA PROJECT PACKAGE
+
+Included: responsive bilingual frontend prototype, SQL schema starter, environment variable template, booking rules, and production checklist.
+Not included: production backend, live database credentials, real OTP/SMS, payment gateway credentials/integration, deployed domain, or verified admin authentication.
+
+Do not use the prototype to collect real payments or claim a booking is confirmed.
